@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="data.xsl"?>
+<data created="1/13/2011 9:49:26 PM">
+  <entry time="1/15/2011 3:37:02 AM" score="0" lives="5" level="1" hits="0" misses="2" hitPercent="0" />
+  <entry time="1/15/2011 3:36:07 AM" score="0" lives="5" level="1" hits="0" misses="5" hitPercent="0" />
+  <entry time="1/15/2011 3:34:48 AM" score="0" lives="5" level="1" hits="0" misses="1" hitPercent="0" />
+  <entry time="1/15/2011 3:33:42 AM" score="0" lives="5" level="1" hits="0" misses="3" hitPercent="0" />
+  <entry time="1/15/2011 3:26:39 AM" score="0" lives="5" level="1" hits="0" misses="10" hitPercent="0" />
+  <entry time="1/15/2011 3:21:49 AM" score="0" lives="5" level="1" hits="0" misses="6" hitPercent="0" />
+  <entry time="1/15/2011 3:20:55 AM" score="0" lives="5" level="1" hits="0" misses="78" hitPercent="0" />
+  <entry time="1/15/2011 3:19:03 AM" score="0" lives="5" level="1" hits="0" misses="1" hitPercent="0" />
+  <entry time="1/15/2011 3:17:57 AM" score="1700" lives="5" level="1" hits="17" misses="0" hitPercent="100" />
+  <entry time="1/15/2011 3:17:04 AM" score="0" lives="5" level="1" hits="0" misses="11" hitPercent="0" />
+  <entry time="1/15/2011 3:14:16 AM" score="0" lives="0" level="1" hits="0" misses="0" hitPercent="0" />
+  <entry time="1/15/2011 2:55:07 AM" score="0" lives="0" level="1" hits="0" misses="0" hitPercent="0" />
+  <entry time="1/15/2011 2:46:19 AM" score="0" lives="4" level="1" hits="0" misses="6" hitPercent="0" />
+  <entry time="1/15/2011 2:44:56 AM" score="0" lives="0" level="1" hits="0" misses="0" hitPercent="0" />
+  <entry time="1/15/2011 2:43:59 AM" score="0" lives="5" level="1" hits="0" misses="60" hitPercent="0" />
+  <entry time="1/15/2011 2:41:13 AM" score="0" lives="0" level="1" hits="0" misses="0" hitPercent="0" />
+  <entry time="1/15/2011 2:40:42 AM" score="0" lives="5" level="1" hits="0" misses="6" hitPercent="0" />
+  <entry time="1/15/2011 2:38:31 AM" score="0" lives="5" level="1" hits="0" misses="5" hitPercent="0" />
+  <entry time="1/15/2011 2:36:35 AM" score="0" lives="5" level="1" hits="0" misses="5" hitPercent="0" />
+  <entry time="1/15/2011 2:29:20 AM" score="0" lives="5" level="1" hits="0" misses="0" hitPercent="0" />
+  <entry time="1/15/2011 2:27:28 AM" score="300" lives="5" level="1" hits="3" misses="1" hitPercent="75" />
+  <entry time="1/15/2011 2:26:01 AM" score="400" lives="5" level="1" hits="4" misses="1" hitPercent="80" />
+  <entry time="1/15/2011 2:18:22 AM" score="600" lives="5" level="1" hits="6" misses="0" hitPercent="100" />
+  <entry time="1/15/2011 2:13:01 AM" score="600" lives="5" level="1" hits="6" misses="3" hitPercent="66.66667" />
+  <entry time="1/15/2011 2:10:37 AM" score="500" lives="5" level="1" hits="5" misses="2" hitPercent="71.42857" />
+  <entry time="1/13/2011 10:23:16 PM" score="3700" lives="4" level="1" hits="37" misses="22" hitPercent="62.71186" />
+  <entry time="1/13/2011 10:21:51 PM" score="11700" lives="4" level="3" hits="117" misses="27" hitPercent="81.25" />
+  <entry time="1/13/2011 10:18:52 PM" score="3100" lives="5" level="1" hits="31" misses="3" hitPercent="91.17647" />
+  <entry time="1/13/2011 10:17:44 PM" score="3000" lives="4" level="1" hits="30" misses="18" hitPercent="62.5" />
+  <entry time="1/13/2011 10:13:06 PM" score="700" lives="5" level="1" hits="7" misses="3" hitPercent="70" />
+  <entry time="1/13/2011 9:55:46 PM" score="3700" lives="0" level="1" hits="37" misses="12" hitPercent="75.5102" />
+  <entry time="1/13/2011 9:53:54 PM" score="3600" lives="5" level="1" hits="36" misses="2" hitPercent="94.73685" />
+  <entry time="1/13/2011 9:51:18 PM" score="6900" lives="0" level="2" hits="69" misses="18" hitPercent="79.31035" />
+</data>

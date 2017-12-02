@@ -1,0 +1,11 @@
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\Game\Release\SpaceInvaders.exe
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\Game\Release\DarkGDK.dll
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\Game\Release\DGDKLib.dll
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\Game\Release\DGDKPlugins.dll
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\Game\Release\DGDKPlugins.xml
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\Game\Release\DGDKLib.xml
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\Game\Release\DarkGDK.xml
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\obj\Release\SpaceInvaders.GameForm.resources
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\obj\Release\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\Nathan Minor\Documents\Programming\CSharp\DarkGDK\SpaceInvaders\obj\Release\SpaceInvaders.exe

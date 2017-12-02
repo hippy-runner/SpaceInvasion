@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        "DGDKPlugins"
+    </assembly>
+    <members>
+        <member name="M:DGDKPlugins.CDarkGDK.InitDarkGDK">
+            <summary>
+Initializes the DarkGDK.NET system, and is primarily used by CSharp applications
+</summary>
+        </member>
+        <member name="M:DGDKPlugins.CDarkGDK.#ctor">
+            <summary>
+Default Constructor
+</summary>
+        </member>
+        <member name="M:DGDKPlugins.CDarkGDK.GetDarkGDKGlobals">
+            <summary>
+Returns a reference to the CDGDKGlobals class
+</summary>
+        </member>
+        <member name="T:DGDKPlugins.CDarkGDK">
+            <summary>
+The CDarkGDK class is used by DarkGDK.NET applications for initializing the DarkGDK.NET toolkit
+</summary>
+        </member>
+        <member name="T:DGDKPlugins.CDGDKPlugin">
+            <summary>
+The CDGDKPlugin is used by external DarkGDK.NET plugins so that they may access the
+functons and classes through one single point interface.
+</summary>
+        </member>
+        <member name="T:DGDKPlugins.CDGDKGlobals">
+            <summary>
+The CDGDKGlobals class is used to maintain references to all of the DarkGDK.NET classes for
+access by plugins and applications
+</summary>
+        </member>
+    </members>
+</doc>
